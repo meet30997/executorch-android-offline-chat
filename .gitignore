@@ -12,6 +12,7 @@ local.properties
 *.gguf
 tokenizer.model
 *.md
+!/README.md
 *.mdx
 *.txt
 *.rst
